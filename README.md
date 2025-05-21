@@ -1,20 +1,28 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">I'm Rahul Patnaik</h1>
-<h3 align="center">Machine Learning Engineer | CUDA Enthusiast | AI Researcher</h3>
+<h3 align="center">Machine Learning Engineer · CUDA Enthusiast · AI Researcher</h3>
 
 <p align="center">
-  <a href="https://github.com/RahulPatnaik"><img src="https://komarev.com/ghpvc/?username=rahulpatnaik&label=Profile%20views&color=0e75b6&style=flat" alt="rahulpatnaik" /></a>
+  <a href="https://github.com/RahulPatnaik">
+    <img src="https://komarev.com/ghpvc/?username=rahulpatnaik&label=Profile%20views&color=0e75b6&style=flat" alt="rahulpatnaik" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:rpatnaik2005@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rahul-patnaik-239980289"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/RahulPatnaik"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:rpatnaik2005@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rahul-patnaik-239980289">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RahulPatnaik">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -29,6 +37,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-2A2A2A?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" />
   <img src="https://img.shields.io/badge/PennyLane-FF1493?style=for-the-badge&logo=pennylane&logoColor=white" />
@@ -39,13 +49,38 @@
 
 ### 🛠️ Notable Projects
 
-- 🔬 **[Titan Architecture](https://github.com/RahulPatnaik/Titan-architechture)** – Custom DistilBERT variant with 40% parameter savings.
-- 🤖 **[model2gguf](https://pypi.org/project/model2gguf/)** – Hugging Face → GGUF converter for Ollama (supports fp16/int4).
-- 💡 **[RL API](https://github.com/RahulPatnaik/Reinforcement-Learning-on-a-small-scale)** – PPO-based trainer with <500ms Flask latency.
-- 🚀 **[CUDA-ML](https://github.com/RahulPatnaik/CUDA-ML)** – High-performance CUDA C++ kernels for ML tasks including matrix operations, memory-optimized convolution, and benchmarking vs PyTorch.
-- ⚙️ **Jetson TX2 Optimizer** – CUDA kernel-level optimization project with 2x matrix speedup and shared memory usage.
-- 🧬 **IEEE Paper** – [InceptionResNetV2-based Brain Tumor Classifier (99.45% Accuracy)](https://ieeexplore.ieee.org/document/10817000)
-- 📱 **Parkinson's FOG Detection** – Real-time LSTM classifier on Raspberry Pi, 65% memory optimization.
+<table>
+  <tr>
+    <td><b>🔬 Titan Architecture</b><br/>
+    <sub>Custom DistilBERT variant with 40% fewer parameters and 79% SST2 accuracy.<br/>
+    <a href="https://github.com/RahulPatnaik/Titan-architechture">🔗 View Project</a></sub></td>
+  </tr>
+  <tr>
+    <td><b>🤖 model2gguf</b><br/>
+    <sub>Convert Hugging Face models to GGUF (int4/fp16) for Ollama-based deployment.<br/>
+    <a href="https://pypi.org/project/model2gguf/">🔗 PyPI Package</a></sub></td>
+  </tr>
+  <tr>
+    <td><b>💡 RL API</b><br/>
+    <sub>Fast PPO runner with <500ms latency using Flask; optimized for memory-constrained environments.<br/>
+    <a href="https://github.com/RahulPatnaik/Reinforcement-Learning-on-a-small-scale">🔗 View Project</a></sub></td>
+  </tr>
+  <tr>
+    <td><b>🚀 CUDA-ML</b><br/>
+    <sub>High-performance CUDA C++ kernels for ML — matrix ops, memory-efficient convolution, and PyTorch benchmarking.<br/>
+    <a href="https://github.com/RahulPatnaik/CUDA-ML">🔗 View Project</a></sub></td>
+  </tr>
+  <tr>
+    <td><b>🧬 IEEE Research</b><br/>
+    <sub>Brain Tumor Detection using InceptionResNetV2 (99.45% accuracy) with augmentation + recall-optimized loss.<br/>
+    <a href="https://ieeexplore.ieee.org/document/10817000">🔗 IEEE Paper</a></sub></td>
+  </tr>
+  <tr>
+    <td><b>📱 Parkinson's FOG Detection</b><br/>
+    <sub>Real-time LSTM classifier running on Raspberry Pi 4; 65% memory optimization from preprocessing pipeline.<br/>
+    <i>Private / Embedded Deployment</i></sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -63,9 +98,9 @@
 
 ### 🌱 Currently Exploring
 
-- Diffusion models for T2I spatial-temporal alignment (CMU CV Lab)
-- CUDA-level optimization of convolution kernels using shared memory and warp practices
-- Hybrid Quantum + Classical ML for tumor detection (PennyLane + PyTorch)
-- LLM fine-tuning and RAG with QLoRA and LlamaIndex
+- 🎨 Diffusion models for spatial-temporal alignment in T2I (CMU CV Lab)  
+- 🚀 CUDA warp-level optimization for memory-efficient convolution  
+- 🧬 Hybrid Quantum-Classical ML for tumor classification (PennyLane + PyTorch)  
+- 🧠 Fine-tuning LLMs + building custom RAG pipelines with QLoRA & LlamaIndex  
 
 ---
